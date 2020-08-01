@@ -1,4 +1,4 @@
-package com.learning.java.springdatajpa.model;
+package com.learning.java.springdatajpa.model.db2;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
